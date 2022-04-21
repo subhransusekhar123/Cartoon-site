@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cartoon-site/static/css/main.7e2906ce.css",
+    "main.js": "/Cartoon-site/static/js/main.3e391912.js",
+    "index.html": "/Cartoon-site/index.html",
+    "main.7e2906ce.css.map": "/Cartoon-site/static/css/main.7e2906ce.css.map",
+    "main.3e391912.js.map": "/Cartoon-site/static/js/main.3e391912.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e2906ce.css",
+    "static/js/main.3e391912.js"
+  ]
+}
